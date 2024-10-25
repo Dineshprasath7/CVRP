@@ -1,4 +1,4 @@
-# ACO-MTZ CVRP Solver
+# ACO_MTZ_CVRP Solver
 
 This repository provides a Python-based implementation of two approaches to solve the **Capacitated Vehicle Routing Problem (CVRP)**:
 1. **Ant Colony Optimization (ACO)** — A heuristic method inspired by ant foraging behavior.
